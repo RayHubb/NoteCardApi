@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/NotecardApi.iml" filepath="$PROJECT_DIR$/.idea/NotecardApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NoteCardApi.iml" filepath="$PROJECT_DIR$/.idea/NoteCardApi.iml" />
     </modules>
   </component>
 </project>
